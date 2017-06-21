@@ -1,4 +1,4 @@
 User-Agent: *
 sitemap: https://andrivanoff.github.io/sitemap.xml
 Disallow:
-Host: https://andrivanoff.github.io
+Host: andrivanoff.ru
